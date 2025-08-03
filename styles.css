@@ -73,3 +73,8 @@ footer {
     border-radius: 10px;
     margin: 1rem 0;
 }
+
+main p {
+    margin-bottom: 1.2rem;
+    line-height: 1.6;
+}
