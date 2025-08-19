@@ -68,7 +68,15 @@ footer {
 
 .profile-photo {
     display: block;
-    max-width: 200px;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin: 1rem 0;
+}
+
+.Solar-photo {
+    display: block;
+    max-width: 500px;
     height: auto;
     border-radius: 10px;
     margin: 1rem 0;
