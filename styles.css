@@ -100,7 +100,7 @@ footer {
 
 .YD-photo2 {
     display: block;
-    max-width: 500px;
+    max-width: 300px;
     height: auto;
     border-radius: 10px;
     margin: 0 auto;
@@ -108,13 +108,21 @@ footer {
 
 .YD-photo3 {
     display: block;
-    max-width: 500px;
+    max-width: 300px;
     height: auto;
     border-radius: 10px;
     margin: 0 auto;
 }
 
 .IM-photo {
+    display: block;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.SD25-photo {
     display: block;
     max-width: 500px;
     height: auto;
