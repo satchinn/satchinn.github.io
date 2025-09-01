@@ -98,6 +98,23 @@ footer {
     margin: 0 auto;
 }
 
+.YD-photo2 {
+    display: block;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.YD-photo3 {
+    display: block;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+
 main p {
     margin-bottom: 1.2rem;
     line-height: 1.6;
