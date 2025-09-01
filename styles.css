@@ -71,15 +71,31 @@ footer {
     max-width: 300px;
     height: auto;
     border-radius: 10px;
-    margin: 1rem 0;
+    margin: 0 auto;
 }
 
 .Solar-photo {
     display: block;
+    max-width: 750px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.YD-photo {
+    display: block;
     max-width: 500px;
     height: auto;
     border-radius: 10px;
-    margin: 1rem 0;
+    margin: 0 auto;
+}
+
+.YD-photo1 {
+    display: block;
+    max-width: 500px;
+    height: auto;
+    border-radius: 10px;
+    margin: 0 auto;
 }
 
 main p {
